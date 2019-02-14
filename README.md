@@ -1,2 +1,3 @@
-# designs
-Icons and layouts
+# Designs
+## Icons
+Main icon and it's variations
